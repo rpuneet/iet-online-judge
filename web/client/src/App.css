@@ -1,0 +1,14 @@
+.Header {
+  background-color: #263238;
+  padding-top: 14px;
+  padding-bottom: 6px;
+  margin: 0px;
+}
+
+.Output {
+  margin: 20px;
+}
+p {
+  margin: 10px;
+  font-size: 20px;
+}
